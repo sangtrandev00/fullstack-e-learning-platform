@@ -1,4 +1,4 @@
-# E - LEARNING PLATFORM
+# E - LEARNING PLATFORM (IN DEVELOPMENT PROGRESS)
 
 ## Frontend
 + Website: https://master--wetech-e-learning.netlify.app/
