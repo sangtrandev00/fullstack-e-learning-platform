@@ -1,14 +1,14 @@
 # E - LEARNING PLATFORM (IN DEVELOPMENT PROGRESS)
 
 ## Frontend
-+ Website: https://master--wetech-e-learning.netlify.app/
-+ Github repo: https://github.com/sangtrandev00/e-learning-platform
-+ Description: Source code to write UI for E Learning Platform. Click the repo link above to see
++ Website: https://e-learning-platform.pro
++ Github repo: [https://github.com/sangtrandev00/e-learning-platform](https://github.com/FptWarriorEndGame/e-learning-platform-fe)
++ Description: Source code to write UI for E-Learning Platform. Click the repo link above to see
 
 ## Backend 
-+ Github repo: https://github.com/sangtrandev00/backend-course-prj
-+ Description: Source code to write API for E Learning Platform. Click the repo link above to see
++ Github repo: [https://github.com/sangtrandev00/backend-course-prj](https://github.com/FptWarriorEndGame/e-learning-platform-api)
++ Description: Source code to write API for E-Learning Platform. Click the repo link above to see
 
 ### Author:
-sangtrandev
+Mr. Trần Nhật Sang
 https://trannhatsang.com 
