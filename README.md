@@ -1,4 +1,4 @@
-# E - LEARNING PLATFORM (IN DEVELOPMENT PROGRESS)
+# E - LEARNING PLATFORM
 
 ## Frontend
 + Website: https://e-learning-platform.pro
